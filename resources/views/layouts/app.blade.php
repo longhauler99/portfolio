@@ -22,16 +22,16 @@
         .hero-text {
             text-align: center;
             position: absolute;
-            top: 40%;
+            top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             color: white;
         }
 
-        html, body {
+        body {
             background-image: url("/images/shamsudeen.jpg");
             background-color: #064B66;
-            height: 500px;
+            height: 550px;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
